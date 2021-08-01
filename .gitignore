@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# JSON
+package.json
+
+# Video de ejemplo
+./assets/nidalee.mp4
