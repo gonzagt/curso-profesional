@@ -106,5 +106,6 @@ dist
 # JSON
 package.json
 
-# Video de ejemplo
+# Cosas personales
 assets/nidalee.mp4
+package-lock.json
