@@ -110,3 +110,5 @@ package.json
 assets/nidalee.mp4
 package-lock.json
 favicon.ico
+.cache
+dist
